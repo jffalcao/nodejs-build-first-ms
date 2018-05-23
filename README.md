@@ -1,4 +1,4 @@
-# Lynda.com - Node.js Build Your First Microservice
+# Lynda.com - Node.js: Build Your First Microservice
 
 https://github.com/jffalcao/nodes-build-first-ms/
 
