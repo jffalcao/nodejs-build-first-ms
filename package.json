@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-build-first-ms",
+  "version": "1.0.0",
+  "description": "NodeJS: Build you first microservice, by Daniel Khan (Lynda.com)",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jffalcao/nodejs-build-first-ms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jffalcao/nodejs-build-first-ms/issues"
+  },
+  "homepage": "https://github.com/jffalcao/nodejs-build-first-ms#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
