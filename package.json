@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jffalcao/nodejs-build-first-ms#readme",
   "dependencies": {
+    "@slack/client": "^4.2.2",
     "express": "^4.16.3"
   }
 }
