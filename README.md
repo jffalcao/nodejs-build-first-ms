@@ -10,5 +10,6 @@ Bookmark: 'Connect to Slack', 4:21
 ## Slack Developer Kit for Node.js
 
 https://slackapi.github.io/node-slack-sdk/
+
 https://github.com/slackapi/node-slack-sdk
 
